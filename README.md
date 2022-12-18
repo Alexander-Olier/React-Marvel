@@ -1,6 +1,6 @@
 # React Marvel
 
-![](https://i.ibb.co/0XYf6W9/image-2022-12-18-105810247.png)
+![](https://i.ibb.co/7RwfcSm/image-2022-12-18-111157519.png)
 
 ##### Tecnología: React, Typescript, Redux, Axios y Nextjs.
 
