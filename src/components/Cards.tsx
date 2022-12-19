@@ -9,12 +9,14 @@ import ModalPost from "./ModalPost";
 
 const style = {
     position: 'absolute' as 'absolute',
+    display:"flex",
+    alignItems:"center",
     top: '50%',
     left: '50%',
     transform: 'translate(-50%, -50%)',
     width: "80%",
-    bgcolor: '#fff',
-    border: '2px solid #000',
+    height:"80%",
+    bgcolor: '#393939',
     boxShadow: 24,
     pt: 2,
     px: 4,

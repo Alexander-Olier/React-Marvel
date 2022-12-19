@@ -1,19 +1,27 @@
 const initialState = {
-    comics:[],
+    comics: [],
+    comic: [],
     loading: true
 }
 
-const comicsReducer = (state = initialState, action: any) =>{
+const comicsReducer = (state = initialState, action: any) => {
 
-    switch(action.type){
+    switch (action.type) {
         case "getComics":
-            return{
-                ... state, 
+            return {
+                ...state,
                 comicsData: action.payload,
-                loading:false
+                loading: false
             }
-            default:
-                return state;
+
+        case "getComic":
+            return {
+                ...state,
+                comicData: action.payload,
+                loading: false
+            }
+        default:
+            return state
     }
 
 }

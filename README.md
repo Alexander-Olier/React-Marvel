@@ -6,8 +6,8 @@
 
 ### Funcionalidades aplicadas
 - Get characters
-- Get one character: Incomplement
-- Responsive: Incomplement
+- Get one character
+- Responsive
 
 ## Ejecutar proyecto
 
