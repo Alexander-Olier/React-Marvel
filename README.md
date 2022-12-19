@@ -2,7 +2,7 @@
 
 ![](https://i.ibb.co/7RwfcSm/image-2022-12-18-111157519.png)
 
-##### Tecnología: React, Typescript, Redux, Axios y Nextjs.
+##### Tecnología: React, Typescript, Redux, Axios, Nextjs, Tailwindcss y Material UI. 
 
 ### Funcionalidades aplicadas
 - Get characters
